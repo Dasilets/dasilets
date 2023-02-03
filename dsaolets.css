@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+body
+{
+    margin: 0;
+}
+
+a{
+   text-decoration: none;  
+   color: black;
+}
+
+
+.mondongoIntegral
+{
+    display: flex;
+    align-items: center;
+    font-family: 'Raleway', sans-serif ;
+    width: 100%;
+    color:  rgb(0, 0, 0);
+    font-size: 50px;
+    justify-content: center;
+    background-color: red;
+    height: 150px;
+    box-shadow: 0px 20px 32px -4px rgba(0,0,0,0.75);
+}
+
+.mondongoIntegral a{
+    margin-left:  10px;
+    margin-right:  10px;
+    
+}
+
+.dasilets 
+{
+    color: blue;
+}
+
