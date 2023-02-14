@@ -1,3 +1,12 @@
 function mondongo(num){
-    console.log("Tu mondongo es " + num)
+    
+    const result = document.getElementById("gg")
+    result.textContent += num
+
+
+}
+
+function borrar()
+{
+      
 }
