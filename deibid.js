@@ -1,12 +1,18 @@
+const resultao = document.getElementById("gg")
+
 function mondongo(num){
+
+    resultao.textContent += num
+
     
-    const result = document.getElementById("gg")
-    result.textContent += num
 
 
 }
 
-function borrar()
+function borradoTotal()
 {
-      
+
+    resultao.textContent = ''
+     
 }
+function resultado()
