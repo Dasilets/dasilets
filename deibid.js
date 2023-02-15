@@ -15,4 +15,4 @@ function borradoTotal()
     resultao.textContent = ''
      
 }
-function resultado()
+
